@@ -1,0 +1,13 @@
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
+  .swiper-pagination-bullet {
+    width: 60px;
+    height: 60px;
+    background-color: aqua;
+  }  
+
+  .swiper-pagination-bullet-active {
+    background-color: pink;
+  }
