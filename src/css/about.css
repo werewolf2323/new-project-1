@@ -1,6 +1,19 @@
 .swiper {
     width: 600px;
-    height: 300px;
+    height: 400px;
+  }
+  .swiper-slide{
+    background-color: aliceblue;
+  }
+  .slide-text{
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    color: red;
+  }
+  .slide-img{
+    margin-left: auto;
+    margin-right: auto;
   }
   .swiper-pagination-bullet {
     width: 60px;
